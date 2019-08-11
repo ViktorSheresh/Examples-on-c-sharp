@@ -113,7 +113,7 @@ namespace Figures_creating_using_methods
                     CreatePyramid(starsPyramid);
                     break;
                 case "Rhombus":
-                    Console.Write("Enter the stars number of Rombus: ");
+                    Console.Write("Enter the stars number of Rhombus: ");
                     int starsRhombus = Convert.ToByte(Console.ReadLine());
                     CreateRhombus(starsRhombus);
                     break;
